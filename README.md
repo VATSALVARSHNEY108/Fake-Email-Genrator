@@ -6,13 +6,10 @@ A web-based fake email generator built with Flask. Instantly generate bulk fake 
 
 Random String
 
-Faker
-
-Names
-
-Mimesis
-
-RandomUser
+1.Faker
+2.Names
+3.Mimesis
+4.RandomUser
 
 ✅ Custom domain support (e.g. @gmail.com)
 
