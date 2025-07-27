@@ -19,6 +19,7 @@ Random String
 
 ✅ Built using Python, Flask, and HTML/CSS
 
+
 🚀 Demo
 
 🛠 Installation
@@ -30,6 +31,7 @@ pip install -r requirements.txt
 📦 Requirements
 Make sure the following Python packages are installed:
 
+
 txt
 Copy code
 Flask
@@ -39,22 +41,26 @@ mimesis
 randomuser
 You can install them with:
 
+
 bash
 Copy code
 pip install Flask Faker names mimesis randomuser
 ▶️ Usage
 Run the Flask app:
 
+
 bash
 Copy code
 python app.py
 Then open your browser and go to:
+
 
 cpp
 Copy code
 http://127.0.0.1:5000/
 🧪 How It Works
 Choose the method of generation.
+
 
 Enter your desired domain (e.g. @outlook.com).
 
