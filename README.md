@@ -72,11 +72,18 @@ Generate and download your fake email list.
 cpp
 Copy code
 .
+
 ├── app.py
+
 ├── templates/
+
 │   └── index.html
+
 ├── static/
+
 ├── README.md
+
 └── requirements.txt
+
 👨‍💻 Created By
 Vatsal Varshney
