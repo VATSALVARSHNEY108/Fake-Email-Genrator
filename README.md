@@ -10,7 +10,6 @@ Random String
 2.Names
 3.Mimesis
 4.RandomUser
-
 ✅ Custom domain support (e.g. @gmail.com)
 
 ✅ Export as .txt file
